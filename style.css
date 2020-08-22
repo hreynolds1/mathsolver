@@ -1,0 +1,17 @@
+@font-face{
+    font-family: Ravie;
+    src: url(RAVIE.woff)
+}
+
+div{
+    font-family: 'Segoe UI';
+}
+title{
+    font-family: Ravie;
+}
+#inputs {
+    font-family: 'Trebuchet MS';
+}
+#overall {
+    background-color: rgb(138,183,255)
+}
